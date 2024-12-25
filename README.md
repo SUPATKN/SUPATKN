@@ -2,7 +2,9 @@
 <h3 align="center">💻 3rd Year Computer Engineering Student 🎓 Chiang Mai University <br>
   🔥 Passionate about Fullstack and Backend Development</h3>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=supatkn&color=brightgreen&style=flat-square" alt="Profile views" />
+ <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=supatkn&label=Profile%20Views&color=3&icon=5&pretty=true" />
+</a>
 </div>
 
 
