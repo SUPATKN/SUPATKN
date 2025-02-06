@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Supatkon Pundontong</h1>
 <h3 align="center">💻 3rd Year Computer Engineering Student 🎓 Chiang Mai University <br>
-  🔥 Passionate about Fullstack and Backend Development</h3>
+  🔥 Passionate about Fullstack Development</h3>
 <div align="center">
  <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=supatkn&label=Profile%20Views&color=3&icon=5&pretty=true" />
