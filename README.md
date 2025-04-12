@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Supatkon Pundontong</h1>
-<h3 align="center">💻 3rd Year Computer Engineering Student 🎓 Chiang Mai University <br>
+<h3 align="center">💻 4rd Year Computer Engineering Student 🎓 Chiang Mai University <br>
   🔥 Passionate about Fullstack Development</h3>
 
 
